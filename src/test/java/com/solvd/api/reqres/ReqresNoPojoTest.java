@@ -1,5 +1,6 @@
-package com.solvd.api;
+package com.solvd.api.reqres;
 
+import com.solvd.api.specification.Specification;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.testng.Assert;

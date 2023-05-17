@@ -1,4 +1,4 @@
-package com.solvd.api;
+package com.solvd.api.reqres;
 
 public class Data {
 
