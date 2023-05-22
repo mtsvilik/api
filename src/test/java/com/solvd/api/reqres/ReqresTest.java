@@ -1,5 +1,6 @@
-package com.solvd.api;
+package com.solvd.api.reqres;
 
+import com.solvd.api.specification.Specification;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

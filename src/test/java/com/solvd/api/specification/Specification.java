@@ -1,4 +1,4 @@
-package com.solvd.api;
+package com.solvd.api.specification;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
