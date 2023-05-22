@@ -46,7 +46,7 @@ public class KucoinTest {
                 .collect(Collectors.toList());
 
         Assert.assertEquals(top10highToLowUsdTickers.get(0).getSymbol(),
-                "SQUAD-USDT");
+                "MTS-USDT");
     }
 
     @Test
@@ -59,7 +59,7 @@ public class KucoinTest {
                 .collect(Collectors.toList());
 
         Assert.assertEquals(top10LowToHighUsdTickers.get(0).getSymbol(),
-                "SUIA-USDT");
+                "ALBT-USDT");
     }
 
     @Test
