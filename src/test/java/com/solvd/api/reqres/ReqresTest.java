@@ -129,6 +129,7 @@ public class ReqresTest {
         System.out.println(currentTime);
         String serverTime = response.getUpdatedAt().replaceAll(regex2, "");
         System.out.println(serverTime);
+
         Assert.assertEquals(currentTime, serverTime);
     }
 }
